@@ -1,0 +1,5 @@
+Most of the varaibles in the step5 dataset are simply averages of a subset of the features in the UCI HAR Dataset.  The subset is concerned with only the features based on averages and standard deviations. More information about those variables can be found in "UCI HAR Dataset\features_info.txt".
+
+There are 2 new variables:
+subjects: the number of the subject being measured
+current_activ: what the subject was doing at the time of the 	measurement
